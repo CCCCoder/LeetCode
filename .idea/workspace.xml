@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="165645cd-9aea-4713-a6f4-33bfc2e90f36" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/N1njaC/LeetCode007.java" afterPath="$PROJECT_DIR$/src/com/N1njaC/LeetCode007.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/N1njaC/LeetCode009.java" afterPath="$PROJECT_DIR$/src/com/N1njaC/LeetCode009.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +41,8 @@
       <file leaf-file-name="LeetCode009.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode009.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="115">
+              <caret line="7" column="70" lean-forward="false" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -610,7 +610,7 @@
       <updated>1499088740936</updated>
       <workItem from="1499088742127" duration="714000" />
       <workItem from="1499173138735" duration="4257000" />
-      <workItem from="1499258166228" duration="3991000" />
+      <workItem from="1499258166228" duration="4242000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode007">
       <created>1499177705949</created>
@@ -626,11 +626,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499259999394</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="leetcode009">
+      <created>1499262453856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1499262453856</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8962000" />
+    <option name="totallyTimeSpent" value="9213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -676,7 +683,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode007" />
     <MESSAGE value="leetcode007修改算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode007修改算法" />
+    <MESSAGE value="leetcode009" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode009" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -749,8 +757,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode009.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="115">
+          <caret line="7" column="70" lean-forward="false" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
           <folding />
         </state>
       </provider>
