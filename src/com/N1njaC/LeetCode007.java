@@ -33,6 +33,6 @@ public class LeetCode007 {
 
     public static void main(String[] args) {
         LeetCode007 leetCode007 = new LeetCode007();
-        System.out.println(leetCode007.reverse(1214748366));
+        System.out.println(leetCode007.reverse(-1243));
     }
 }
