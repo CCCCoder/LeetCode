@@ -1,6 +1,5 @@
 package com.N1njaC;
 
-import java.util.Stack;
 
 /**
  * Created by N1njaC on 2017/7/4.
@@ -16,26 +15,24 @@ public class LeetCode007 {
 
     //32-bit integer :- 2^31 <= n < 2^31
     public int reverse(int x) {
-        int head = x / 10;
-        int tail = x % 10;
-        int result = 0;
-
-        //尾数总是取head的最后一位，一次取一个，然后再让head/10，减小head的位数。
-        while (head != 0 || tail != 0) {
-            result = result * 10 + tail;
-            tail = head % 10;
-            head = head / 10;
+        //注意result参数必须用long类型，原因是可能反转过来的字符串已经超过2^31次方了。
+        //long类型转int为向下转型，可能有溢出情况，结果是不可预知的。
+        long result = 0;
+         int tmp = x;
+        while (tmp != 0) {
+            // 余数%每次取得就是数字的最后一位。
+            //而除/是每次剔除数字的最后一位，刚好余数将最后一位取出来了，然后利用除来剔除它，直到只有一位数。
+            result = result * 10 + tmp % 10;
+            tmp = tmp / 10;
         }
-
-        result = x < Integer.MIN_VALUE ? 0 : result;
-        result = x > Integer.MAX_VALUE ? 0 : result;
-
-        return (int)result;
-
+        if (result < Integer.MIN_VALUE || result > Integer.MAX_VALUE) {
+            result = 0;
+        }
+        return (int) result;
     }
 
     public static void main(String[] args) {
         LeetCode007 leetCode007 = new LeetCode007();
-        System.out.println(leetCode007.reverse(1235434243));
+        System.out.println(leetCode007.reverse(1214748366));
     }
 }
