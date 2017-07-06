@@ -1,7 +1,7 @@
 package com.N1njaC;
 
 /**
- * Created by Admin on 2017/7/5.
+ * Created by N1njaC on 2017/7/5.
  */
 public class LeetCode009 {
 
