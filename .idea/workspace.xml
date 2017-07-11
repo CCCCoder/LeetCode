@@ -708,7 +708,7 @@
       <workItem from="1499346854317" duration="3723000" />
       <workItem from="1499434232959" duration="5182000" />
       <workItem from="1499690135064" duration="5980000" />
-      <workItem from="1499776617718" duration="3962000" />
+      <workItem from="1499776617718" duration="3972000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode007">
       <created>1499177705949</created>
@@ -759,11 +759,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499696575598</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="leetcode021">
+      <created>1499781777053</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1499781777053</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28126000" />
+    <option name="totallyTimeSpent" value="28136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -814,7 +821,8 @@
     <MESSAGE value="leetcode013" />
     <MESSAGE value="leetcode014" />
     <MESSAGE value="leetcode020" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode020" />
+    <MESSAGE value="leetcode021" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode021" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
