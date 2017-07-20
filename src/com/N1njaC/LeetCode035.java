@@ -11,6 +11,10 @@ public class LeetCode035 {
 
     public int searchInsert(int[] nums, int target) {
 
+        if (nums == null||target == 0){
+            return 0;
+        }
+
         Queue<Integer> integerQueue = new LinkedList<>();
         for (int i = 0; i < nums.length; i++) {
             integerQueue.add(nums[i]);
