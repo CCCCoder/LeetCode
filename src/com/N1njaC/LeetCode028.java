@@ -23,7 +23,7 @@ public class LeetCode028 {
                     break;
                 }
             }
-
+            //aaaaaaabbc    bbc
             if (j == needle.length()) {
                 return i;
             }
