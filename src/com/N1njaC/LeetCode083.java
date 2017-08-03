@@ -31,11 +31,6 @@ public class LeetCode083 {
         return head;
     }
 
-    public static void main(String[] args) {
-
-    }
-
-
 }
 
 
