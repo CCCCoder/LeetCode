@@ -28,8 +28,8 @@
       <file leaf-file-name="LeetCode107.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode107.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="263">
+              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -704,7 +704,7 @@
       <workItem from="1501856486064" duration="269000" />
       <workItem from="1502108103496" duration="3159000" />
       <workItem from="1502195211650" duration="403000" />
-      <workItem from="1502279365511" duration="2638000" />
+      <workItem from="1502279365511" duration="2668000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode007">
       <created>1499177705949</created>
@@ -888,11 +888,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502195445040</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="107">
+      <created>1502282126424</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1502282126424</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66230000" />
+    <option name="totallyTimeSpent" value="66260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -956,7 +963,8 @@
     <MESSAGE value="088:Merge Sorted Array" />
     <MESSAGE value="101" />
     <MESSAGE value="104" />
-    <option name="LAST_COMMIT_MESSAGE" value="104" />
+    <MESSAGE value="107" />
+    <option name="LAST_COMMIT_MESSAGE" value="107" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1330,8 +1338,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode107.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="263">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           <folding />
         </state>
       </provider>
