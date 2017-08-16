@@ -782,7 +782,7 @@
       <workItem from="1502101508298" duration="569000" />
       <workItem from="1502423328721" duration="1746000" />
       <workItem from="1502706589756" duration="1715000" />
-      <workItem from="1502877203957" duration="98000" />
+      <workItem from="1502877203957" duration="140000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode007">
       <created>1499177705949</created>
@@ -917,11 +917,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502877287637</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="leetcode110">
+      <created>1502877309206</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1502877309206</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48918000" />
+    <option name="totallyTimeSpent" value="48960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1278" height="729" extended-state="0" />
