@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="165645cd-9aea-4713-a6f4-33bfc2e90f36" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="165645cd-9aea-4713-a6f4-33bfc2e90f36" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,8 +23,18 @@
       <file leaf-file-name="LeetCode107.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode107.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-44">
+            <state relative-caret-position="374">
               <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode104.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode104.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -35,18 +43,28 @@
       <file leaf-file-name="LeetCode108.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode108.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="330">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LeetCode110.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LeetCode110.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode110.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LeetCode111.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode111.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -89,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/com/N1njaC/LeetCode100.java" />
         <option value="$PROJECT_DIR$/src/com/N1njaC/LeetCode108.java" />
         <option value="$PROJECT_DIR$/src/com/N1njaC/LeetCode110.java" />
+        <option value="$PROJECT_DIR$/src/com/N1njaC/LeetCode111.java" />
       </list>
     </option>
   </component>
@@ -129,9 +148,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -760,7 +779,8 @@
       <workItem from="1501593141417" duration="2237000" />
       <workItem from="1502101508298" duration="569000" />
       <workItem from="1502423328721" duration="1746000" />
-      <workItem from="1502706589756" duration="918000" />
+      <workItem from="1502706589756" duration="1715000" />
+      <workItem from="1502877203957" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode007">
       <created>1499177705949</created>
@@ -881,11 +901,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502424785482</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="leetcode110">
+      <created>1502792545864</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1502792545865</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48023000" />
+    <option name="totallyTimeSpent" value="48891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="23" width="1278" height="729" extended-state="0" />
@@ -952,7 +979,8 @@
     <MESSAGE value="leetcode069" />
     <MESSAGE value="leetcode100" />
     <MESSAGE value="leetcode108" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode108" />
+    <MESSAGE value="leetcode110" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode110" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -965,20 +993,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode014.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode020.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode013.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1896">
@@ -1299,26 +1313,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode108.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode107.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
+        <state relative-caret-position="374">
           <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode108.java">
+    <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode104.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode110.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/N1njaC/LeetCode111.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding />
         </state>
       </provider>
