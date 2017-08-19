@@ -20,15 +20,12 @@ public class LeetCode035 {
             integerQueue.add(nums[i]);
         }
         System.out.println("zz"+integerQueue.size());
-
         for (int i = 0; i < nums.length; i++) {
-
             if (integerQueue.poll() >= target) {
                 return i ;
             }
         }
         return nums.length;
-
     }
 
     public static void main(String[] args) {
