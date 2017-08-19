@@ -24,13 +24,6 @@ public class LeetCode118 {
 
         return allRow;
     }
+    
 
-    public static void main(String[] args) {
-        List<Integer> integers = new ArrayList<>();
-        integers.add(0, 1);
-
-        for (int i = 0; i < integers.size(); i++) {
-            System.out.println(integers.get(i));
-        }
-    }
 }
