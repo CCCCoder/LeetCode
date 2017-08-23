@@ -1,6 +1,5 @@
 package com.N1njaC;
 
-import javax.crypto.Mac;
 
 /**
  * Created by N1njaC on 2017/8/18.
