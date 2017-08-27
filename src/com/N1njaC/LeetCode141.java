@@ -3,7 +3,7 @@ package com.N1njaC;
 /**
  * Created by N1njaC on 2017/8/24.
  */
-public class LeeyCode141 {
+public class LeetCode141 {
 
 
     private class ListNode {
