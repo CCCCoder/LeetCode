@@ -5,7 +5,5 @@ package com.N1njaC;
  */
 public class LeetCode167 {
 
-    public int[] twoSum(int[] numbers,int target){
-        
-    }
+   
 }
