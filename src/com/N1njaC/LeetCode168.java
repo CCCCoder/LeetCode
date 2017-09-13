@@ -11,6 +11,6 @@ public class LeetCode168 {
 
     public static void main(String[] args) {
 
-        System.out.println(new LeetCode168().convertToTitle(729));
+        System.out.println(new LeetCode168().convertToTitle(703));
     }
 }
